@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the unfortunate and unparallel case of Eliz. Wandesford weddow and relict of Garret Foulkes, Esq; and of her aged mother and children, ...</title>
+            <author>Wandesford, Elizabeth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1701</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24037</idno>
+            <idno type="STC">Wing A145A</idno>
+            <idno type="STC">ESTC T135938</idno>
+            <idno type="EEBO-CITATION">99834191</idno>
+            <idno type="PROQUEST">99834191</idno>
+            <idno type="VID">38689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1802:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the unfortunate and unparallel case of Eliz. Wandesford weddow and relict of Garret Foulkes, Esq; and of her aged mother and children, ...</title>
+                  <author>Wandesford, Elizabeth.</author>
+               </titleStmt>
+               <extent>[2]p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin?,</pubPlace>
+                  <date>1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Docket title: 'The case of Elizabeth Wandesford, widow and relick of Garret Foulkes, Esq; &amp;c.' - A petition to the Irish Parliament.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38689:1"/>
+            <head>An Abſtract of the unfortunate and unparallel <hi>CASE</hi> of <hi>Eliz. Wandesford,</hi> Weddow and Relict of <hi>Garret Foulkes,</hi> 
+               <abbr>Eſq</abbr> and of her Aged Mother and Children, who are by the faithful ſervices and ſufferings of their Friends, left miſerable Objects of the Care and bounty of this Juſt and Merci<g ref="char:EOLhyphen"/>ful Aſſembly.</head>
+            <p>THE firſt beginning of their Tragical ſcene, of Miſery above others, was occaſion'd by the unfortunate Mr. <hi>Foulkes</hi>'s appearing ſo early in Arms, in defence of this Govern<g ref="char:EOLhyphen"/>ment; for which he and ſeveral of his Relations, who were Perſons of Emenency and Note in that Kingdom, were taken Priſoners, and Condemned to be Hang'd, Drawn, and Quartered; upon which ſad ſentence his unfortunate Familly, being more fill'd with the Conſideration of the unhappineſs, then thoughts of a remedy; had whil'ſt others were ſend<g ref="char:EOLhyphen"/>ing their Families and Effects for <hi>England,</hi> all their Worldly ſubſtance Seaz'd and taken from them as Traytors Goods, long before King <hi>James</hi> Landed, or any Perſon ſuffer'd in that Kingdom; but having in the Priſons of <hi>Gallway</hi> and <hi>Doublin</hi> ſeveral Reprieves ſent them, was after the breach of the <hi>Boyne,</hi> releaſed by His preſent Majeſty: But upon the ſaid Mr. <hi>Foulks</hi>'s recovery of a great fit of Sickneſs, occation'd by his long Confinement, he to Signalize his Loyalty and Zeal farther, went with his Nephew Colonel <hi>Foulkes</hi> to the Battle of <hi>Aghrim,</hi> where he and one of the Petitioners Brothers loſt their lives together, which Compleared the unhappy Number, ſince and before, of five Brothers and a Huſ<g ref="char:EOLhyphen"/>band with their whole Fortune; Loſt in the ſervice beſides ſeveral other Relations too Numerous to Mention. That the ſaid <hi>Eliz. Wandsford</hi>'s Aged Mother being ready to ſink under the Oppreſſion of too juſt a grief for the loſs of ſo many Sons, had inſtead of the leaſt Compaſſion, her Choiſe reduc'd to two very ſad Neceſſeſities; whether ſhe ſhould be burnt in the Houſe, or otherwiſe deſtroy'd if ſhe came forth; But being no longer able to hold out in the Flames, was forc'd to to ex<g ref="char:EOLhyphen"/>poſe her ſelf and Family to the mercy of the Enemy, and after being Pillag'd and Plunder'd by them, ſhe and thoſe poor Orphans attempted to make their eſcapes to <hi>Corke,</hi> or where ever elſe their pittileſs Fortune ſhould lead them; but the Enemy ſoon purſu'd their unhappy wandring Lives, and with an inflixable Cruelty barborouſly Murther'd one of the Petitioners Brothers, but to him was more mercifully Cruel then to the reſt, for her Aged Mother, Siſter and Children, they ſtript even of their very Shifts; with the Terrour and Cold of which, her Siſter and Child died the ſame Night in the Fields, and by the hardſhips they endur'd ſhorten'd the Lives of ſeveral of the Petitioners own Chil<g ref="char:EOLhyphen"/>dren alſo, that the miſerable ſurvivers of them lay a conſiderable time in a very weak Condition, in a Waſt and deſolate Part of the Country, having no friends Left a this ſide the Grave, that would haſſard the bringing them out of the Enemies Quarters, where during the War: the <hi>Weſt</hi> being the Seat of It, they ſuffer'd more then Tongue and Pen could Expreſs; that Her Maieſty upon the Lords Juſtices of <hi>Irelands</hi> Letters, in behalf of the Petitioners, was therefore Graciouſly pleaſed, in Com<g ref="char:EOLhyphen"/>paſſion to their Misfortunes, to Grant them a Pention of 200 <hi>l. per Ann.</hi> which was as appears the expreſs words of the Patent, to be concinu'd to them till their Majeſties could make a Proviſion more ſuitable to their Sufferings for them, as appears by the annext Certificate, that His Majeſty in Order to make good Her promiſe, of ever bleſſed Memory, did upon the Petitioners ſurrender of their Pention, Grant them a <hi>Cuſtodiam,</hi> and laſt Spring His Letter for paſſing a Leaſe of Ninety nine Years of two hunder'd Pounds <hi>per Ann.</hi> out of the Forfeitures in <hi>Ireland.</hi> At the paſſing of which the Petitioners were in the Valluation of thoſe Lands, to be Repriſed and conſider'd for three Years loſs of the Incum of their Pention, which the Governments Report's ready to be produc'd ſets forth, having receiv'd no benefit of the ſaid <hi>Cuſtodiam,</hi> by reaſon of the Incumbrance that after appear'd upon thoſe Lands after they paſſed <hi>Cuſtodiam</hi> for them, upon the Solicitation of which, they may juſtly Charge their ruin, having with Toyl of Body and Mind made eight Voyages too and from that Kingdom, in obtaining, fixing and exchanging thoſe Grants, which has not only eaten up the benefit of His Majeſties intended bounty, but run the Petitioners more in Debt, then the Inheritance of ſo ſmall a Grant can poſſible be worth: That the Petitioners having already ſmarted under a ſucceſſion of trouble and a Afflictions of the heavieſt kind, did therefore to avoid the Charge and Fitague of attendance, not ſeek for the benefit of Her Majeſties Gracious promiſe, of making a more ſuitable proviſion then the ſaid two hunder'd Pounds <hi>per Ann.</hi> for ſo Large and diſtreſſed a Family.</p>
+            <p>That the ſaid <hi>Eliz. Wondesford</hi> notwithſtanding her ſtraight Circumſtances, being not able to ſee her own human Nature, Pineing and Sterving in the Perſons of ſuch near Relations, did therefore ſend for her Aged Mother and ſeveral Orphans left by her Brothers, in order to pertake of what ſmall Fortune God Almighty had bleſſed her with; but her Mother being too Feeble and Aged for ſuch an undertaking, unfortunately broak her Thigh by a fall lately on her Journey to this Kingdom, which muſt render the ſmall remnant of Life very Miſerable; but much more ſo, if depriv'd of the Means that ſupports her, and the helpleſs Family of Children, whoſe whole dependance under God, is upon this ſmall Eſtate, tho its the ſorrowfulleſt Bread they ever Eat, that's purchaſed with the Lives of their neareſt and deareſt Relations. The Caſe therefore being ſo very hard, and to Cruel to be Patterned amongſt the worſt of their Countries; its therefore humbly hoped, they being both ſufferers, and by giving up their Pention Purchaſers, that their Caſe will not be look'd upon as a Common Caſe, being in its ſeveral Circumſtances not to be parallel'd in the whole Kingdom, the Conſideration of which together with the particular regard Her Majeſty had to it, as appears by the annext Certificate of the Lord Lieutenant of <hi>Ireland,</hi> will they humbly hope Incline this Honourable Houſe to Eſtabliſh them in their Grant, or give them ſomething equivalent to the ſaid two hunder'd
+<pb facs="tcp:38689:2" rendition="simple:additions"/>
+               <hi>per Ann.</hi> and the three Years loſs of the Incum of their Pention of two huudr'd a Year, according to His Majeſties derections and Intentions towards them, otherwiſe the Aged Grand-mother, and help<g ref="char:EOLhyphen"/>leſs Famaly of Children, whoſe whole dependance was upon this ſmall Grant; muſt be expoſed to all the miſery Imaginable, and for ever lye wrapt in the Ruins of their Parents fate, except the Mercy and Goodneſs of this Honourable Houſe enterpoſes between them, and the great Danger that threa<g ref="char:EOLhyphen"/>tens thoſe Lives, which could never by them be own'd with Comfort, ſince ſo Miſerably reduc'd and perſecuted by fortune.</p>
+            <p>
+               <hi>WE do hereby Certifie, that upon Mrs. <hi>Foulkes</hi> applying her ſelf to Her Majeſty, after the loſs of her Husband and five Brothers in Their Majeſties ſervice; it was Her Ma<g ref="char:EOLhyphen"/>jeſties deſire and perticular Order to <g ref="char:V">Ʋ</g>s at our coming into this Kingdom, that notwithſtanding any ſtop put to other Pentions, hers of two hundr'd Pounds a Year ſhould be well paid and Conti<g ref="char:EOLhyphen"/>nued to her, till Their Majeſtys could Conveniently give her ſomething better and more ſuitable to her ſufferings in Liew of it: In Compliance therefore to Her Majeſties Commands, and to prevent any ſcruple or difficulty ſhe ſhould for the future meet with on that account. We Certify this to be Her Majeſties pleaſure and expreſs Commands to <g ref="char:V">Ʋ</g>s at our coming into this Kingdom.</hi>
+            </p>
+            <closer>
+               <dateline>Given at Their Majeſties Caſtle of <hi>Dublin</hi> 
+                  <date>the 30th of June, 1693.</date>
+               </dateline> 
+               <signed>Sydney.</signed>
+            </closer>
+            <postscript>
+               <p>The Original to be produc'd if requir'd.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>The CASE of <hi>Elizabeth Wandesford,</hi> Wid<g ref="char:EOLhyphen"/>dow and Relick of <hi>Garret Foulkes,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
